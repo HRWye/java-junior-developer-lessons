@@ -1,4 +1,4 @@
-public class FirstLesson {
+public class Lesson1 {
     //psvm - shortcut
     /*
        многострочный комментарий
