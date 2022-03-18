@@ -53,6 +53,6 @@ public class Application {
         //вывод имени автора первой книги на полке
         System.out.println(shelf.books[0].getAuthor().name);
 
-
+        author1.toString();
     }
 }
