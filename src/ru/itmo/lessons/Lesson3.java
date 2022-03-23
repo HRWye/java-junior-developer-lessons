@@ -1,3 +1,5 @@
+package ru.itmo.lessons;
+
 import java.util.Scanner;//импортировали класс Scanner
 
 public class Lesson3 {

@@ -1,3 +1,5 @@
+package ru.itmo.lessons;
+
 import java.util.Arrays;
 import java.util.Scanner;
 

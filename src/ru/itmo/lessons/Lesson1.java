@@ -1,3 +1,5 @@
+package ru.itmo.lessons;
+
 public class Lesson1 {
     //psvm - shortcut
     /*
