@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson9;
+package ru.itmo.lessons.lesson9and10;
 
 public class Application {
     //класс Point

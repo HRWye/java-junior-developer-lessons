@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7.base;
+package ru.itmo.lessons.lesson7and8.base;
 
 public class Knight extends BattleUnit implements AttackAble{
     //implements, то есть этот класс реализует данный интерфейс и обязан определить все его методы

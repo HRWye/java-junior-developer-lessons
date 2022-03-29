@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7.base;
+package ru.itmo.lessons.lesson7and8.base;
 
 //нельзя создать экземпляр
 //в отличие от абстрактного класса здесь не будет никаких конструкторов и свойств

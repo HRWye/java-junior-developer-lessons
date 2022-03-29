@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7.base;
+package ru.itmo.lessons.lesson7and8.base;
 //родительский класс всех персонажей
 abstract public class Unit {//abstract класс, нельзя на основе него создать новый экземпляр (new Unit); может содержать абстрактные методы
     protected int healthScore;//доступ к свойствам и методам с модификатором protected разрешен из родительского и дочерних классов

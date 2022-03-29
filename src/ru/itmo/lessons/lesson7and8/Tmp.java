@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7;
+package ru.itmo.lessons.lesson7and8;
 public class Tmp {
 //король: здоровье,золото,армия
 
