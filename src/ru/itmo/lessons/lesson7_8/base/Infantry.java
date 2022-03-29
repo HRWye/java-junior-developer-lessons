@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7and8.base;
+package ru.itmo.lessons.lesson7_8.base;
 
 public class Infantry extends BattleUnit implements AttackAble {
     //можно свойству задать модификатор final так как его в ходе задачи мы никак не меняем

@@ -1,9 +1,9 @@
-package ru.itmo.lessons.lesson7and8;
+package ru.itmo.lessons.lesson7_8;
 
-import ru.itmo.lessons.lesson7and8.base.BattleUnit;
-import ru.itmo.lessons.lesson7and8.base.Infantry;
-import ru.itmo.lessons.lesson7and8.base.Knight;
-import ru.itmo.lessons.lesson7and8.base.Unit;
+import ru.itmo.lessons.lesson7_8.base.BattleUnit;
+import ru.itmo.lessons.lesson7_8.base.Infantry;
+import ru.itmo.lessons.lesson7_8.base.Knight;
+import ru.itmo.lessons.lesson7_8.base.Unit;
 
 //public class King extends Unit
 //public class Infantry extends BattleUnit

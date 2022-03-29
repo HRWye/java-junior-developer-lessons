@@ -1,4 +1,4 @@
-package ru.itmo.lessons;
+package ru.itmo.lessons.lesson1_2_3_4_5;
 
 import java.util.Arrays;
 import java.util.Scanner;

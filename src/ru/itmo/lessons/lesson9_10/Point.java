@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson9and10;
+package ru.itmo.lessons.lesson9_10;
 
 import java.util.Objects;
 

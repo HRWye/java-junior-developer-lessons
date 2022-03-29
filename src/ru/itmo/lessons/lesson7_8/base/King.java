@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7and8.base;
+package ru.itmo.lessons.lesson7_8.base;
 
 public final class King extends Unit{//final перед классом запрещает наследование
     private int gold = 500;

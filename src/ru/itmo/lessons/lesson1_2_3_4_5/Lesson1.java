@@ -1,4 +1,4 @@
-package ru.itmo.lessons;
+package ru.itmo.lessons.lesson1_2_3_4_5;
 
 public class Lesson1 {
     //psvm - shortcut

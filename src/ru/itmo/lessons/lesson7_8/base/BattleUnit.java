@@ -1,4 +1,4 @@
-package ru.itmo.lessons.lesson7and8.base;
+package ru.itmo.lessons.lesson7_8.base;
 
 abstract public class BattleUnit extends Unit implements AttackAble {//BattleUnit наследуется от класса Unit.
     //Unit - родительский класс (super-класс);
