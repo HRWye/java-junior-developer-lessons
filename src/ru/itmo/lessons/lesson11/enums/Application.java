@@ -26,6 +26,30 @@ public class Application {
         //name() - стринговое представление
         //valueOf("...") - ссылка на элемент класса перечисления
 
+        Priority low = Priority.LOW;
+        Priority low1 = Priority.LOW;//создали две ссылки на один объект
+        System.out.println(low.getCode());
+        low.setCode(2);
+        System.out.println(low.getCode());
 
+
+        Priority[] priorities =Priority.values();
+        System.out.println(Arrays.toString(priorities));
+        for (Priority priority : priorities) {
+            System.out.print(priority.getCode()+", ");
+        }
+
+        int sumRes = Operation.SUM.action(2,3);
+        System.out.println(sumRes);
+        int multiRes = Operation.SUM.action(2,3);
+        System.out.println(multiRes);
+
+        Planets.PLUTO.setRadio(123213);
+        Planets[] planets=Planets.values();
+        for (Planets planet : planets) {
+            System.out.println(planet.getTitle()+", "+planet.getMass()+", "+planet.getRadio());
+        }
+        //метод name() нельзя переопределить он final
+        //метод toString() переопределить можно
     }
 }
