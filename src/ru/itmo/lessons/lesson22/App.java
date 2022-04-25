@@ -5,8 +5,8 @@ import java.io.FileInputStream;
 
 public class App {
     public static void main(String[] args) {
-        EncryptedInputStream inputStream = new EncryptedInputStream(new FileInputStream(new File("f")));
+        //EncryptedInputStream inputStream = new EncryptedInputStream(new FileInputStream(new File("f")));
         byte[] bytes = new byte[1000];
-        inputStream.read(bytes);
+        //inputStream.read(bytes);
     }
 }
