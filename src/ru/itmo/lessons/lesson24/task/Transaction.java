@@ -14,5 +14,10 @@ public class Transaction implements Runnable{
     @Override
     public void run() {
         // TODO перевод денежных средств со счета src на счет dst в количестве money
+        synchronized (src) {
+            src.setBalance(src.getBalance() - money);
+        }
+        dst.setBalance(dst.getBalance()+money);
+
     }
 }
